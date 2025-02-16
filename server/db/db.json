@@ -1,0 +1,115 @@
+[
+  {
+    "id": "7932a52081a5",
+    "name": "csdcd",
+    "author": "cccx",
+    "description": "scc",
+    "dates": [
+      "2025-02-07",
+      "2025-02-08"
+    ],
+    "created_at": "2025-02-10T15:58:50.656Z",
+    "num_modification": 0,
+    "last_modification": "2025-02-10T15:58:50.656Z",
+    "attendees": []
+  },
+  {
+    "id": "f5b6564b5dc4",
+    "name": "My sweet 16",
+    "description": "I am going to be 16, let us all party together! Help me pick a date so we can go together",
+    "author": "John Doe",
+    "dates": [
+      "2025-03-17",
+      "2025-03-18",
+      "2025-03-21",
+      "2025-03-22"
+    ],
+    "attendees": [
+      {
+        "name": "Michou",
+        "dates": [
+          {
+            "date": "2025-03-17",
+            "available": true
+          },
+          {
+            "date": "2025-03-18",
+            "available": false
+          },
+          {
+            "date": "2025-03-21",
+            "available": true
+          }
+        ]
+      },
+      {
+        "name": "Jean-Daniel",
+        "dates": [
+          {
+            "date": "2025-03-17",
+            "available": false
+          },
+          {
+            "date": "2025-03-21",
+            "available": true
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-11-15T00:00",
+    "num_modification": 13,
+    "last_modification": "2025-02-12T08:30:11.585Z"
+  },
+  {
+    "id": "38b643aeb883",
+    "name": "The big sale @ The Mall",
+    "description": "I want to buy stuff at the mall, but don't want to go alone who is up?",
+    "author": "Jean D'eau",
+    "dates": [
+      "2025-01-10",
+      "2025-02-10",
+      "2025-03-10",
+      "2025-03-11",
+      "2025-03-12"
+    ],
+    "attendees": [
+      {
+        "name": "Michou",
+        "dates": [
+          {
+            "date": "2025-01-10",
+            "available": true
+          }
+        ]
+      },
+      {
+        "name": "Jane Doe",
+        "dates": [
+          {
+            "date": "2025-01-10",
+            "available": true
+          },
+          {
+            "date": "2025-02-10",
+            "available": true
+          },
+          {
+            "date": "2025-03-10",
+            "available": true
+          },
+          {
+            "date": "2025-03-11",
+            "available": true
+          },
+          {
+            "date": "2025-03-12",
+            "available": false
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-11-13T14:00",
+    "num_modification": 0,
+    "last_modification": "2024-11-13T14:00"
+  }
+]
